@@ -13,10 +13,13 @@
      bash install.sh
      bash Spade 
      bash Spade /root/example.apk
-# Requisitos
-     wget
-     curl
-     python3
-     metasploit-framework
+# Mis redes sociales
+     YouTube   ->    http://youtube.com/c/CésarHackGray_Y_Miickeyy
+     Facebook  ->    Cesar Hack Gray
+     Telegram  ->    https://t.me/CesarGray
+     Grupo     ->    https://t.me/CesarHackGray
+     Mi web    ->    https://www.CesarHackGray.com
+ 
+     
 # Example
 ![20191024_165516_rmedited](https://user-images.githubusercontent.com/46208706/67531253-27c4d000-f67f-11e9-9165-6427a7c74659.png)
